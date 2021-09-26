@@ -1,0 +1,9 @@
+.doners-container {
+    box-sizing: border-box;
+    overflow: hidden;
+    margin-right: 0;
+}
+
+.doners-info {
+    color: white;
+}

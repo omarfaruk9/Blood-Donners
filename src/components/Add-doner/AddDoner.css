@@ -1,0 +1,16 @@
+.doner-info-add {
+    color: sienna;
+    display: flex;
+    /* flex-wrap: wrap; */
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: skyblue;
+    margin-top: 15px;
+    border-radius: 5px;
+}
+
+.doner-info-add img {
+    width: 100px;
+    padding: 5px;
+    border-radius: 50%;
+}
