@@ -14,7 +14,7 @@ const Doner = (props) => {
                         <h5>Age: {age}</h5>
                         <h2>Blood Given: {given}</h2>
                         <p class="card-text">Blood Group: <span className="fw-bold">{blood_group}</span></p>
-                        <p>Phone: {phone}</p>
+                        <p>Phone <i class="fas fa-phone-square-alt"></i> {phone}</p>
                         <p>Address: <span className="mute">{address}</span></p>
                     </div>
                     <div class="card-footer border-0">
