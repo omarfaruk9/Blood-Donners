@@ -29,7 +29,7 @@ const Header = () => {
             </nav>
             <div className="our-info col-lg-12">
                 <h1>Blood <span className="text-warning">Donor Club</span></h1>
-                <p>"Opportunities knock the door sometimes, so don’t let it go and donate blood.”</p>
+                <p>"Opportunities knock the door sometimes, so don’t let it go and donate blood.” Omar</p>
                 <h2>We Have <span className="text-warning">1000+</span> Members!...</h2>
             </div>
         </div>
